@@ -9,22 +9,22 @@ written by other team members and making the code compile and run as per the cli
 specifications, which ran successfully after my editing. 
 
 The creation of this Software Design Document helped set the framework for the development of 
-this application.  If I could choose one part of my work on these documents ro revise, I would 
+this application.  If I could choose one part of my work on these documents to revise, I would 
 mention the benefits of the implementation of a hybrid operating platform rather than a strictly 
 cloud-based one.  Implementing a hybrid operating platform would allow The Gaming Room's 
 application Draw It or Lose It to retain the control afforded by a more traditional physical 
 server-based operating platform while also leveraging the powerful functionalities of cloud 
 computing as referenced in the Software Design Document included in this repository.   
 
-In order to implement the user’s needs into my software design, I carefully reviewed the r
-equirements stated by the client and formed them into a comprehensive Software Design Document 
+In order to implement the user’s needs into my software design, I carefully reviewed the 
+requirements stated by the client and formed them into a comprehensive Software Design Document 
 on which the code developed for this application was based.  Consideration of the needs of the 
 client and of their users is of the utmost importance since the very existence of each project 
 is based on our goal of achieving the client’s needs by helping them satisfy the needs of their 
 users.   
 
-My approach to designing software involves the facilitation of the client’s process of using 
-our service to achieve their goals by understanding and listening carefully to their needs in 
-order to build their desired application around said needs.  I will then use my object oriented 
-programing skills to create an effective, efficient and scalable software solution which meets 
-and exceeds client needs based on their stated requirements for each project.  
+My approach to designing software involves the facilitation of the client’s use of our services 
+to achieve their goals by understanding and listening carefully to their needs in order to build 
+their desired application around said needs.  I then use my object oriented programing skills to 
+create an effective, efficient and scalable software solution which meets and exceeds the 
+client's needs based on their stated requirements for each project.  
